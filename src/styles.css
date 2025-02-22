@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+}
+
+.calender {
+  position: relative;
+  width: 400px;
+  height: 600px;
+  border: 1px solid #ddd;
+  margin: 20px auto;
+}
+
+.event {
+  position: absolute;
+  background: #4285f4;
+  color: white;
+  padding: 5px;
+  border-radius: 4px;
+  width: 150px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
